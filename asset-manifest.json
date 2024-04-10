@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Furniture-World-Web/static/css/main.fe205ec3.css",
+    "main.js": "/Furniture-World-Web/static/js/main.8caf6011.js",
+    "static/js/453.31f58322.chunk.js": "/Furniture-World-Web/static/js/453.31f58322.chunk.js",
+    "static/media/bg.jpg": "/Furniture-World-Web/static/media/bg.d4ca57bbe1c99d80e639.jpg",
+    "static/media/car2.png": "/Furniture-World-Web/static/media/car2.240703fe7e6c00076c5f.png",
+    "static/media/car3.png": "/Furniture-World-Web/static/media/car3.f49acd70cb5336303c98.png",
+    "static/media/card8.png": "/Furniture-World-Web/static/media/card8.e17991389ae02f535d91.png",
+    "static/media/car6.png": "/Furniture-World-Web/static/media/car6.6cd5235aac2b7da0cae5.png",
+    "static/media/car1.png": "/Furniture-World-Web/static/media/car1.da1b5c0cd88b6ea2961b.png",
+    "static/media/background.jpg": "/Furniture-World-Web/static/media/background.8b887ef10f0ac5ac2aea.jpg",
+    "static/media/product-3.png": "/Furniture-World-Web/static/media/product-3.9a7701e22aabf396c0f3.png",
+    "static/media/cartisempty.jpg": "/Furniture-World-Web/static/media/cartisempty.ab643d4c64dbf759eb03.jpg",
+    "static/media/car5.png": "/Furniture-World-Web/static/media/car5.5bc9d347c51a7644ee92.png",
+    "static/media/product-1.png": "/Furniture-World-Web/static/media/product-1.b3c19796dccb13fbd0b3.png",
+    "static/media/car4.png": "/Furniture-World-Web/static/media/car4.ba368bf21eb9b6d05b7d.png",
+    "static/media/about.jpg": "/Furniture-World-Web/static/media/about.ab6c1e7c33b05f6a156c.jpg",
+    "static/media/starbucks.png": "/Furniture-World-Web/static/media/starbucks.60f96f06059250b978d3.png",
+    "static/media/person_1.jpg": "/Furniture-World-Web/static/media/person_1.3b349ed7d06859f8fc58.jpg",
+    "static/media/person_4.jpg": "/Furniture-World-Web/static/media/person_4.e140471939f87b3752ba.jpg",
+    "static/media/person_3.jpg": "/Furniture-World-Web/static/media/person_3.5fc16e3352daa95e18a3.jpg",
+    "static/media/zoom.png": "/Furniture-World-Web/static/media/zoom.2abfb31716049ecd433f.png",
+    "static/media/card3.png": "/Furniture-World-Web/static/media/card3.0f1283f52dc816d2fe7d.png",
+    "static/media/netflix.png": "/Furniture-World-Web/static/media/netflix.b39480d09d45609d9d6f.png",
+    "static/media/Google.png": "/Furniture-World-Web/static/media/Google.330fac308b783a6bc246.png",
+    "index.html": "/Furniture-World-Web/index.html",
+    "main.fe205ec3.css.map": "/Furniture-World-Web/static/css/main.fe205ec3.css.map",
+    "main.8caf6011.js.map": "/Furniture-World-Web/static/js/main.8caf6011.js.map",
+    "453.31f58322.chunk.js.map": "/Furniture-World-Web/static/js/453.31f58322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe205ec3.css",
+    "static/js/main.8caf6011.js"
+  ]
+}
