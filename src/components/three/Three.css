@@ -1,0 +1,84 @@
+.parent
+{
+    margin-left: 10vw;
+    margin-right: 10vw;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit,minmax(230px,1fr));
+}
+
+.card
+{
+    padding-top: 50px;
+}
+
+.card h6
+{
+    position: absolute ;
+    top: 20px;
+    color: #83b735;
+    background-color: rgb(200, 235, 200);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.six-icon
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30%;
+}
+
+.six-icons
+{
+    display: flex;
+    justify-content: flex-start;
+    color: gold;
+    padding-bottom: 30px;
+    padding-top: 7px;
+}
+
+.card a
+{
+    width: 80%;
+    text-align: center;
+    border: none;
+    font-weight: 400px;
+}
+
+.card p
+{
+    font-weight: 600;
+}
+
+.card a:hover
+{
+    background-color: #83b735;
+    border: 1px solid #83b735;
+}
+
+.ic1
+{
+    font-size: 20px;
+    width: 60px;
+    text-align: center;
+    position: sticky;
+    left: 100%;
+    top: 10%;
+    right: 0%;
+    padding-bottom: 30px;
+}
+
+.ic2
+{
+    font-size: 20px;
+    padding-right: 0px;
+    width: 60px;
+    text-align: center;
+    position: sticky;
+    left: 100%;
+    top: 18%;
+    right: 0%;
+    padding-bottom: 30px;
+}

@@ -1,0 +1,22 @@
+.four2 img
+{
+    display: flex;
+    margin: auto;
+    max-width: 300px;
+    width: 50%;
+}
+
+
+.four2 h3
+{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.four2 button
+{
+    text-align: center;
+    display: block;
+    margin: auto;
+}

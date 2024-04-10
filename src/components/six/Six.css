@@ -1,0 +1,18 @@
+.sixp
+{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+}
+
+
+
+.sixc
+{
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}

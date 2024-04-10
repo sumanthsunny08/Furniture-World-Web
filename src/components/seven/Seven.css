@@ -1,0 +1,45 @@
+.newsletter
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 80vh;
+}
+
+.newsletter h2
+{
+    padding-top: 200px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.news-box
+{
+    display: flex;
+    align-items: center;
+}
+
+.news-box input
+{
+    width: 30vw;
+    height: 44px;
+    border-radius: 0;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+.news-box .btn
+{
+    border-radius: 0;
+    padding: 11px;
+    height: 44px;
+    font-weight: 500;
+    text-transform: uppercase;
+}

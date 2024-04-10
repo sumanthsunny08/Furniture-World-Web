@@ -1,0 +1,59 @@
+.imgg
+{
+    min-width: 400px;
+    width: 100vw;
+}
+
+
+
+@media screen and (max-width:1000px) {
+    .child2
+    {
+        margin-top: 50px;
+    }
+    .child2 h1{
+        font-size: 24px;
+    }
+}
+
+@media screen and (min-width:1001px) {
+    .child2 h1
+    {
+        font-family: "League Spartan", sans-serif;
+        font-size: 44px;
+        font-weight: 500px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .child2 p,.child2 a
+    {
+        display: none;
+    }
+    .child2
+    {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:1001px) {
+    .child2
+    {
+    width: 40vw;
+    position: absolute;
+    left:10vw;
+    top: 40vh;
+    }
+}
+
+span
+{
+    color: #83b735;
+}
+
+.btn
+{
+    background-color:#83b735;;
+}
+
+

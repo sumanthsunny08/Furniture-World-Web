@@ -1,0 +1,72 @@
+.four-p
+{
+    margin-bottom: 5%;
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.four-c1 img
+{
+    max-width:300px;
+    width: 50%;
+    display: flex;
+    margin: auto;
+    display: flex;
+    margin: auto;
+}
+   
+
+.four-c1
+{
+    text-align: center;
+    font-weight: bold;
+}
+.four-c2 button
+{
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+}
+
+.four-c2,.four-c3
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.four-c3
+{
+    margin-right: 20px;
+}
+
+.four-c3 span
+{
+    margin-right: 10px;
+}
+
+button
+{
+    font-size: 20px;
+    border:none;
+}
+
+.four-p2
+{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
