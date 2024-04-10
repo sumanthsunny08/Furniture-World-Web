@@ -6,6 +6,9 @@ export function Four2({setshow})
 {
     return (
         <div className='four2'>
+            <div className='appc1'>
+            <h1>Your Cart</h1>
+            </div>
             <img src={cartisempty} alt="image"className='card-img-top' />
             <h3>Your Cart is Empty!!Lets Continue Shopping?</h3>
             <button onClick={()=>setshow(true)}>Continue Shopping <span><i class="fa-solid fa-house" onClick={()=>setshow(true)} ></i></span></button>

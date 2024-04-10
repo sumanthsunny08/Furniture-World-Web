@@ -44,7 +44,7 @@ function App() {
         show?<Three size={cart.length}  handleClick={handleClick} setshow={setshow} ></Three>:cart.length ?<Four cart={cart} setcart={setcart} size={cart.length} setshow={setshow}></Four>:<Four2 setshow={setshow}></Four2>
       }
       {
-        warning &&  <div className='error danger'>Item Is Already Added In Your Cart</div>
+        warning &&  <div className='errordanger'>Item Is Already Added In Your Cart</div>
       }
       <div className='appc2'>
       <h1>About</h1>
