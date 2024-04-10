@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Furniture-World-Web/static/css/main.fe205ec3.css",
-    "main.js": "/Furniture-World-Web/static/js/main.8caf6011.js",
+    "main.css": "/Furniture-World-Web/static/css/main.511c85b8.css",
+    "main.js": "/Furniture-World-Web/static/js/main.0ab6bc22.js",
     "static/js/453.31f58322.chunk.js": "/Furniture-World-Web/static/js/453.31f58322.chunk.js",
     "static/media/bg.jpg": "/Furniture-World-Web/static/media/bg.d4ca57bbe1c99d80e639.jpg",
     "static/media/car2.png": "/Furniture-World-Web/static/media/car2.240703fe7e6c00076c5f.png",
@@ -25,12 +25,12 @@
     "static/media/netflix.png": "/Furniture-World-Web/static/media/netflix.b39480d09d45609d9d6f.png",
     "static/media/Google.png": "/Furniture-World-Web/static/media/Google.330fac308b783a6bc246.png",
     "index.html": "/Furniture-World-Web/index.html",
-    "main.fe205ec3.css.map": "/Furniture-World-Web/static/css/main.fe205ec3.css.map",
-    "main.8caf6011.js.map": "/Furniture-World-Web/static/js/main.8caf6011.js.map",
+    "main.511c85b8.css.map": "/Furniture-World-Web/static/css/main.511c85b8.css.map",
+    "main.0ab6bc22.js.map": "/Furniture-World-Web/static/js/main.0ab6bc22.js.map",
     "453.31f58322.chunk.js.map": "/Furniture-World-Web/static/js/453.31f58322.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe205ec3.css",
-    "static/js/main.8caf6011.js"
+    "static/css/main.511c85b8.css",
+    "static/js/main.0ab6bc22.js"
   ]
 }
